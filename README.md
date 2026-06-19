@@ -1,6 +1,6 @@
 # Ejercicio RockingData
 
-Ejercicio script de python para puesto DevOps Jr. 
+Ejercicio script de python. 
 - Utilize Flask para crear el microservicio, y tambien se adaptaba muy bien a las consignas dadas.
 - Algo a aclarar que me falto en el video, es que a medida que el usuario sube archivos se van alojando en la carpeta uploads.
 - Me fue de ayuda esta documentacion: https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/
